@@ -61,11 +61,21 @@ We have set out in the tables below the categories of personal data we collect a
 
 Personal data collected when you sign up for the Code S Service
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Categories of personal data  | Description of category |
+| ------------- | ------------- |
+| Account Registration Data | This is the personal data that is provided by you or collected by us to enable you to use Code S services. This includes your device and advertising identifier. |
+| | Some of the personal data we will ask you to provide is required in order to create your account. You have the option to provide us additional personal data in order to make your account more personalized.|
+| | The exact personal data we will collect depends on the mobile application you open that is distributed by Code S and whether or not you use a Third Party Service (as defined in the Terms and Conditions of Use, such as Facebook) to sign up and use the Code S application. If you use a Third Party Service to create an account, we will receive personal data via that Third Party Service but only when you have consented to that Third Party Service sharing your personal data with us.
+
+##### Personal data collected through your use of Code S Services
+
+| Categories of personal data  | Description of category |
+| ------------- | ------------- |
+| Code S Service Usage Data | This is the personal data that is collected about you when you are using Code S services and applications - this may include: |
+| | Information about your type of phone |
+| | Information about your interactions with the Code S Service which includes the date and time of requests you make, your total playtime of the application, times you have opened the leaderboard, the bet amount you have placed and whether you have won or loss that spin.  This also includes details of your use of Third Party Applications and advertising you receive.
+| | Technical Data which may include URL information, cookie data, your IP address, the types of devices you are using to access or connect to the Code S application, unique device and advertising identifiers, device attributes, network connetion type (e.g. WiFi, 3G, LTE, Bluetooth) and provider, network and device performance, browser type, language, information enabling digital rights management, operating system, and the Code S application version.  Further details about the technical data that is processed by us can be found in our Cookies Policy.
+| | Motion-generated or orientation-generated mobile sensor data (e.g. accelerometer or gyroscope) required for the purposes of providing specific features of the Code S application to you.
 
 ### 6. What do we use your personal data for?
 When you use or interact with the Code S Service, we use a variety of technologies to process the personal data we collect about you for various reasons. We have set out in the table below the reasons why we process your personal data, the associated legal bases we rely upon to legally permit us to process your personal data, and the categories of personal data (identified in Section 5 ‘What personal data do we collect from you?’) used for these purposes:
